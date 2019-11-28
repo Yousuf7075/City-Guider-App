@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_place"
+        android:title="places"
+        android:icon="@drawable/place"/>
+    <item
+        android:id="@+id/nav_events"
+        android:title="events"
+        android:icon="@drawable/event"/>
+    <item
+        android:id="@+id/nav_profile"
+        android:title="profile"
+        android:icon="@drawable/profile"/>
+
+</menu>

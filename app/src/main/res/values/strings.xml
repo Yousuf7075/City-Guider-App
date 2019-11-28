@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">City Guider</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="place_api">AIzaSyCD-bpsdlBJ75aQrxI1AgDE_LqLTEzW3iI</string>
+    <string name="direction_api">AIzaSyCwAu7bVPAW88CQaVnkk5JcN38NpglyNlc</string>
+    <string name="weather_api_key">1d275a76857aca9ad10cb70992efb942</string>
+    <string-array name="home_item">
+        <item>restaurant</item>
+        <item>cafe</item>
+        <item>atm</item>
+        <item>bank</item>
+        <item>hospital</item>
+        <item>library</item>
+        <item>police</item>
+        <item>bus_station</item>
+        <item>train_station</item>
+        <item>fire_station</item>
+        <item>parking</item>
+        <item>doctor</item>
+        <item>dentist</item>
+        <item>drugstore</item>
+        <item>tourist_attraction</item>
+        <item>school</item>
+        <item>university</item>
+        <item>car_repair</item>
+        <item>electrician</item>
+        <item>shopping_mall</item>
+        <item>grocery_or_supermarket</item>
+        <item>gym</item>
+        <item>church</item>
+        <item>mosque</item>
+        <item>museum</item>
+        <item>movie_theater</item>
+        <item>night_club</item>
+    </string-array>
+    <string-array name="home_item_name">
+        <item>restaurant</item>
+        <item>cafe</item>
+        <item>atm</item>
+        <item>bank</item>
+        <item>hospital</item>
+        <item>library</item>
+        <item>police station</item>
+        <item>bus station</item>
+        <item>train station</item>
+        <item>fire station</item>
+        <item>parking</item>
+        <item>doctor</item>
+        <item>dentist</item>
+        <item>drugstore</item>
+        <item>tourist attraction</item>
+        <item>school</item>
+        <item>university</item>
+        <item>car repair</item>
+        <item>electrician</item>
+        <item>shopping mall</item>
+        <item>supermarket</item>
+        <item>gym</item>
+        <item>church</item>
+        <item>mosque</item>
+        <item>museum</item>
+        <item>movie theater</item>
+        <item>night club</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="todo">TODO</string>
+    <string name="location_name">66/1 west rajabazar, Dhaka-1215,Bangladesh</string>
+</resources>
+
+
+
+
+
