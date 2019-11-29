@@ -1,4 +1,4 @@
-#City-Guider-App
+# City-Guider-App
 City mate is a mobile application that connects people to easily find a lot of information about the city from anywhere
 through this mobile application. By using this mobile application, we can find information around 10km over the city sitting at home 
 by using the internet. Also, we can get information about current weather, nearby events & place direction through Google map.
